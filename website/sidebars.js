@@ -512,7 +512,8 @@ module.exports = {
 					type: 'category',
 					label: 'zip',
 					items: [
-						'zip/zip.extract'
+						'zip/zip.extract',
+						'zip/zip.list'
 					]
 				}
 			],
